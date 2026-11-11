@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bàn phím cơ",
+    "price": 890000,
+    "soluong": 12,
+    "image": "https://example.com/images/ban-phim-co.jpg"
+  },
+  {
+    "name": "Chuột không dây",
+    "price": 350000,
+    "soluong": 20,
+    "image": "https://example.com/images/chuot-khong-day.jpg"
+  },
+  {
+    "name": "Tai nghe Bluetooth",
+    "price": 690000,
+    "soluong": 8,
+    "image": "https://example.com/images/tai-nghe-bluetooth.jpg"
+  }
+]
